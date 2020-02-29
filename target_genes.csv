@@ -1,0 +1,11 @@
+https://www.drugbank.ca/drugs/DB00317,['EGFR']
+https://www.drugbank.ca/drugs/DB00619,"['BCR', 'KIT', 'RET', 'NTRK1', 'CSF1R', 'PDGFRA', 'DDR1', 'ABL1', 'PDGFRB']"
+https://www.drugbank.ca/drugs/DB01048,"['pol', 'HLA-B']"
+https://www.drugbank.ca/drugs/DB00173,"['APRT', 'mtnN', 'ACACB', 'ACP1', 'PECR', 'mutY', 'ptd', 'SRPK2', 'ruvB', 'MTAP', 'cobT', '']"
+https://www.drugbank.ca/drugs/DB00734,"['HTR2A', 'DRD2', 'ADRA1A', 'DRD3', 'DRD4', 'ADRA1B', 'HTR1D', 'HRH1', 'ADRA2A', 'ADRA2B', 'ADRA2C', 'HTR2C', 'HTR1A', 'DRD1', 'HTR7']"
+https://www.drugbank.ca/drugs/DB00218,"['parC', 'gyrA', 'TOP2A']"
+https://www.drugbank.ca/drugs/DB09095,"['ANXA3', 'NR3C1']"
+https://www.drugbank.ca/drugs/DB01053,"['pbp3', 'bla', 'SLC22A8', 'SLC15A1', 'SLC15A2']"
+https://www.drugbank.ca/drugs/DB00274,"['mecA', 'mrcA', 'mrcB', 'ftsI', 'dacA', 'dacC']"
+Incomplete urls are as follows:
+https://www.drugbank.ca/drugs/DB14093,https://www.drugbank.ca/drugs/DB05196
